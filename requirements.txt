@@ -1,0 +1,8 @@
+Langchain
+Langchain_community
+OpenAI
+faiss-cpu
+streamlit
+SQlAchemy
+bs4
+chromadb
