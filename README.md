@@ -77,7 +77,7 @@ Efficient and scalable nearest-neighbor search for document retrieval.\
 
 1. **Run the Application**
    ```sh
-   streamlit run app.py
+   streamlit run main.py
    ```
 2. **Upload a PDF or provide a URL**
 3. **Ask questions based on the uploaded sources**
